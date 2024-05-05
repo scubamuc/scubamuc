@@ -11,6 +11,7 @@ My goal is a simple safe and reliable setup with ample resources for 5+ family u
 **Quicklinks**
 * [Official Nextcloud snap wiki](https://github.com/nextcloud-snap/nextcloud-snap/wiki)
 * [SCUBA's Nextcloud snap wiki docs](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/wiki-md)
+* [SCUBA's bash scripts](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/bash-scripts)
 
 ---
 # 1. System specs
