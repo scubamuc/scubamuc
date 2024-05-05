@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">SCUBA's self hosted Nextcloud snap server</h1>
 
 <p align="center" width="100%">
