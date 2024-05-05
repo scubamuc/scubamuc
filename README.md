@@ -16,6 +16,7 @@ If you would like to give it a try, head over to [SCUBA's Nextcloud snap server 
 * [SCUBA's bash scripts](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/bash-scripts)
 
 ---
+![grafik](https://github.com/scubamuc/scubamuc/assets/54933878/3e72d254-4786-4614-9cf9-b626a9491f97)
 
 having gained some Nextcloud snap experience I was asked to join the [Nextcloud snap Team](https://github.com/nextcloud-snap) to assist in [testing PR's](https://github.com/nextcloud-snap/nextcloud-snap/wiki/Develop-and-contribute#testing-pull-requests), resolving [issues](https://github.com/nextcloud-snap/nextcloud-snap/issues) where possible and creating the [Nextcloud snap wiki](https://github.com/nextcloud-snap/nextcloud-snap/wiki). That has certainly been an exciting journey and an fantastic experience. 
 
