@@ -75,60 +75,7 @@ My goal is a simple safe and reliable setup with ample resources for 5+ family u
 * [Configure Nextcloud](https://github.com/nextcloud-snap/nextcloud-snap/wiki/configure-Nextcloud-snap) and regain control over your data
 
 ----
-# 3. Export, Import -- Backup, Restore
-
-## 3.1 Nextcloud snap export & import
-
-### Export Nextcloud snap with nextcloud.export
-* nextcloud.export
-* compress export
-* move/copy compressed export from backup directory: `/var/snap/nextcloud/common/backups` to wherever
-* remove old exports from directory
-
-This works fine as weekly automatic cronjob (as root) and for random backups. Compressed backup may be moved wherever. 0 downtime.
-
-[rotating Nextcloud snap export script](https://github.com/scubamuc/scubamuc.github.io/blob/scubamuc/wiki-md/NEXTCLOUD.snap--backup_nextcloud-export.md)
-
-## Restore export using nextcloud.import
-
-* when moving to new device, be sure to install nextcloud-snap first
-* nextcloud.import replaces previous installation incl. DB and data
-
-1\. copy/move compressed export file to restore directory: `/var/snap/nextcloud/common`
-
-2\. uncompress export file in restore directory: `/var/snap/nextcloud/common`
-
-3\. issue command `$ sudo nextcloud.import /var/snap/nextcloud/common/...`
-
-----
-## 3.2 Nextcloud snap snapshot & restore
-
-### Backup Nextcloud snap with Snap snapshot
-
-[snapshot documentation](https://snapcraft.io/docs/snapshots)
-* snap stop nextcloud 
-* snap save nextcloud 
-* snap start nextcloud 
-* find snapshot in `/var/lib/snapd/snapshots` and copy/move to wherever
-
-This works fine as weekly automatic cronjob (as root) and has the added convenience of easy snap transfer to different server when needed. Thus always 4 weeks of snap-snapshots on backup media. Downtime depends on resources and data.
-
-[rotating Snap snapshot script](https://github.com/scubamuc/scubamuc.github.io/blob/scubamuc/wiki-md/NEXTCLOUD.snap--backup_snap-snapshot.md)
-
-## Restore Snap snapshot using Snap restore 
-
-* when moving to new device, be sure to install Nextcloud snap first
-* snap restore replaces previous installation incl. certs, DB and data
-* see documentation in `man snap` and [snapcraft](https://snapcraft.io/docs/snapshots#heading--restoring)
-
-1\. copy compressed file (\*.zip) from backup media to `/var/lib/snapd/snapshots`
-
-2\. discover snapshot-ID using `snap saved`
-
-3\. issue command `sudo snap restore "snapshot-ID"` 
-
-----
-## 3.3 LXC container snapshot / backup & restore
+## 2.2 LXC container snapshot / backup & restore
 
 #### Backup LXC container with snapshot/image & restore in shell [scripted](https://github.com/scubamuc/scubamuc.github.io/blob/scubamuc/bash-scripts/LXC-ContainerBackup.sh) or GUI [LXDMosaic](https://github.com/turtle0x1/LxdMosaic#-lxdmosaic)
 
