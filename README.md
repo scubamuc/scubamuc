@@ -12,8 +12,8 @@ If you would like to give it a try, head over to [SCUBA's Nextcloud snap server 
 
 **Quicklinks**
 * [SCUBA's Nextcloud snap server setup guide](https://github.com/scubamuc/scubamuc.github.io)
-* [SCUBA's wiki docs](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/wiki-md)
-* [SCUBA's bash scripts](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/bash-scripts)
+* [SCUBA's wiki docs](https://github.com/scubamuc/wiki-md)
+* [SCUBA's bash scripts](https://github.com/scubamuc/bash-scripts)
 
 ---
 ![grafik](https://github.com/scubamuc/scubamuc/assets/54933878/3e72d254-4786-4614-9cf9-b626a9491f97)
