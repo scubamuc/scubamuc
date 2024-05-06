@@ -12,7 +12,7 @@ If you would like to give it a try, head over to [SCUBA's Nextcloud snap server 
 
 **Quicklinks**
 * [SCUBA's Nextcloud snap server setup guide](https://github.com/scubamuc/scubamuc.github.io)
-* [SCUBA's Nextcloud snap wiki docs](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/wiki-md)
+* [SCUBA's wiki docs](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/wiki-md)
 * [SCUBA's bash scripts](https://github.com/scubamuc/scubamuc.github.io/tree/scubamuc/bash-scripts)
 
 ---
