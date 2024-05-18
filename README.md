@@ -11,7 +11,7 @@ My goal is a simple safe and reliable setup with ample resources for 5+ family u
 If you would like to give it a try, head over to [SCUBA's Nextcloud snap server setup](https://github.com/scubamuc/scubamuc.github.io) as a reference.
 
 **Quicklinks**
-* [SCUBA's Nextcloud snap server setup guide](https://github.com/scubamuc/scubamuc.github.io)
+* [SCUBA's Nextcloud snap server setup & specs ](https://github.com/scubamuc/scubamuc.github.io)
 * [SCUBA's wiki docs](https://github.com/scubamuc/wiki-md)
 * [SCUBA's bash scripts](https://github.com/scubamuc/bash-scripts)
 
