@@ -18,7 +18,7 @@ If you would like to give it a try, head over to [SCUBA's Nextcloud snap server 
 ---
 ![grafik](https://github.com/scubamuc/scubamuc/assets/54933878/3e72d254-4786-4614-9cf9-b626a9491f97)
 
-Having gained some Nextcloud snap experience I was asked to join the [Nextcloud snap team](https://github.com/nextcloud-snap) to assist in [testing PR's](https://github.com/nextcloud-snap/nextcloud-snap/wiki/Develop-and-contribute#testing-pull-requests), resolving [issues](https://github.com/nextcloud-snap/nextcloud-snap/issues) where possible and creating/maintaining the [Nextcloud snap Wiki](https://github.com/nextcloud-snap/nextcloud-snap/wiki). That has certainly been an exciting journey and a valuable experience. 
+Having gained some Nextcloud snap experience I was asked to join the [Nextcloud snap team](https://github.com/nextcloud-snap) to assist in [testing PR's](https://github.com/nextcloud-snap/nextcloud-snap/wiki/Develop-and-contribute#testing-pull-requests), resolving [issues](https://github.com/nextcloud-snap/nextcloud-snap/issues) where possible as well as creating/maintaining the [Nextcloud snap Wiki](https://github.com/nextcloud-snap/nextcloud-snap/wiki). That has certainly been an exciting journey and a valuable experience. 
 
 **Quicklinks**
 * [Official Nextcloud snap GitHub](https://github.com/nextcloud-snap/nextcloud-snap)
