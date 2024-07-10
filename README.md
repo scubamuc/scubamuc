@@ -25,3 +25,8 @@ Having gained some Nextcloud snap experience I was asked to join the [Nextcloud 
 * [Official Nextcloud snap Wiki](https://github.com/nextcloud-snap/nextcloud-snap/wiki)
 
 ---
+
+**Nextcloud Links**
+
+* [Nextcloud Community Forum](https://help.nextcloud.com/)
+* [Nextcloud Server GitHub](https://github.com/nextcloud/server)
